@@ -1,7 +1,196 @@
 
 # SSC E-Commerce Sales website: bringing local computer shopping and expert support into one storefront
 
-**SSC E-Commerce Sales is the online retail website concept for Shree Shivalingeshwar Computers (SSC), a computer and technology business in Haveri, Karnataka. The project appears in the [Tech Conversion](https://techconversion.tech/portfolio) portfolio as an electronics and laptop-store ecommerce experience that connects laptop and desktop shopping, printers, accessories, repair services and bulk purchasing enquiries. Original project design files show a searchable, category-led storefront with product promotions, shopping controls and a dedicated customer-support journey.**
+**SSC E-Commerce Sales is the online retail website concept for Shree Shivalingeshwar Computers (SSC), a computer and technology business in Haveri, Karnataka. The project appears in the [Tech Conversion](https://techconversion.tech/portfolio) portfolio as an electronics and laptop-store ecommerce experience that connects laptop and desktop shopping, printers, accessories, repair services and bulk purchasing enquiries. Original project design files show a searchable, category-led storefront with product promotions, shopping controls # SSC E-Commerce Sales website: bringing local computer shopping and expert support into one storefront
+
+**SSC E-Commerce Sales is the online retail website project for Shree Shivalingeshwar Computers (SSC), a computer and technology business in Haveri, Karnataka. The project appears in the [Tech Conversion](https://techconversion.tech/portfolio) portfolio as an electronics and laptop-store ecommerce experience connecting laptop and desktop shopping, printers, accessories, repair services and bulk purchasing enquiries. The supplied project media documents an earlier and redesigned storefront presentation focused on searchable product discovery, shopping controls and customer support.**
+
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/ssc-ecommerce-sales-before-after.webp">
+    <img src="https://techconversion.tech/api/media/before-after/ssc-ecommerce-sales-before-after.webp" alt="SSC E-Commerce Sales website before and after comparison by Tech Conversion" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/TechConversionOfficial/SSC-E-Commerce-Sales-website"><strong>GitHub repository</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/before-after"><strong>Before &amp; after gallery</strong></a>
+</p>
+
+| | |
+|---|---|
+| **Client** | Shree Shivalingeshwar Computers / SSC Haveri |
+| **Project name** | SSC E-Commerce Sales |
+| **Industry** | Consumer electronics, laptop and computer retail, accessories and IT services |
+| **Business location** | Haveri, Karnataka, India |
+| **Project category** | Local electronics ecommerce / computer store website |
+| **Agency attribution** | [Tech Conversion](https://techconversion.tech/portfolio), Chennai, India |
+| **GitHub repository** | [TechConversionOfficial/SSC-E-Commerce-Sales-website](https://github.com/TechConversionOfficial/SSC-E-Commerce-Sales-website) |
+| **Associated business domain** | [sschaveri.in](https://sschaveri.in/) is associated with SSC Haveri in project materials; the precise live ecommerce URL has **not** been independently authenticated |
+| **Product focus** | Laptops, desktops, printers, accessories, peripherals, networking and related products |
+| **Service focus** | Computer repairs, upgrades, product advice and bulk orders |
+| **Production platform and integrations** | Not independently confirmed; visible cart, account, wishlist and order-tracking controls do not by themselves prove a live transaction system |
+
+## About the business
+
+**Shree Shivalingeshwar Computers** is a computer retailer and IT-services business in Haveri, Karnataka. Public business listings associate it with laptop and desktop sales, accessories, repairs and related technical support. It forms part of the wider SSC business identity, which also includes computer education and technology services.
+
+Tech Conversion lists **SSC E-Commerce Sales** separately from its **SSC Education** and **SSC Group** projects. This ecommerce project is focused on translating the local store's hardware and service offering into a digital shopping experience rather than presenting the parent group's full corporate or training catalogue.
+
+The project materials show product and service families including:
+
+- **Computers:** laptops, gaming laptops, desktop PCs and related equipment.
+- **Printing and peripherals:** printers, consumables, headphones, keyboards, accessories, batteries and other components.
+- **Technology products:** antivirus software, barcode equipment, cabinets, card readers, cooling accessories and selected networking or CCTV-related equipment.
+- **Services:** laptop and desktop repair, device upgrades, product selection advice and support for bulk or organisational requirements.
+- **Local purchase support:** store visits, telephone or WhatsApp enquiries and shopping-oriented navigation, subject to current business arrangements.
+
+Business-directory information places the Haveri store at **73A, SSC Neralu, near Guru Bhavan, High School Road, Haveri, Karnataka 581110** and lists **+91 99000 37710**. These are directory-reported details and should be confirmed directly before being treated as official current contact information.
+
+## The problem
+
+A local technology retailer serves several types of customer in the same day. A student might be comparing an affordable study laptop; a professional may need a dependable office desktop; a gamer may want a graphics-capable machine; an office might request several printers; and an existing customer may need a repair rather than a new product.
+
+A simple general-purpose shop listing may not help those visitors identify the right hardware. Ecommerce also introduces practical questions around specifications, variants, price, inventory, warranty, delivery area and after-sales support. For higher-consideration purchases, many customers still value advice from a trusted local store.
+
+The **SSC E-Commerce Sales** website therefore needs to make the retail catalogue easy to explore without losing the local service element. Buyers should be able to understand the available product families, find relevant offers, identify shopping actions and ask for assistance when their needs are more complex than a standard online order.
+
+The supplied website captures now support a visual comparison of the earlier and redesigned presentation. They do not independently prove any particular conversion, revenue or operational improvement.
+
+## How Tech Conversion presented the ecommerce experience
+
+The following points describe the **project presentation and visible ecommerce direction**. They should not be interpreted as independent verification that every feature is deployed or fully connected to a live backend.
+
+1. **Put shopping controls in the header.** Product search, account, wishlist and shopping-cart controls prioritise buying tasks alongside the SSC identity.
+2. **Make category discovery immediate.** Laptops, desktops, printers, accessories and related technology categories are surfaced prominently so visitors can move directly into relevant product families.
+3. **Use product-led promotional campaigns.** Hero sections and featured product areas provide stronger retail focus than a generic corporate landing page.
+4. **Combine local trust with digital convenience.** Warranty, delivery, genuine-product and service-assistance themes can reassure shoppers, but each specific promise must be checked against actual retailer policy.
+5. **Offer a separate repair and upgrade route.** Repair Service helps existing customers seek technical assistance rather than forcing every visitor through the product catalogue.
+6. **Allow bulk-buying enquiries.** Schools, offices and businesses may require quotations or advice instead of a single-item checkout.
+7. **Separate shopping from support.** Product & Sales, Repair & Service, Bulk Orders and Visit Our Store are distinct customer needs that benefit from clear routing.
+8. **Support order-related convenience.** Account, wishlist, cart and order-tracking affordances communicate ecommerce intent. Working authentication, stock synchronisation, payment processing and live tracking still require independent verification.
+9. **Keep product and corporate identities distinct.** SSC Education and SSC Group can be linked where appropriate while ecommerce actions remain the primary purpose of this project.
+10. **Treat offers and product claims as current-data responsibilities.** Product prices, discounts, stock, warranties, delivery promises and brand-authorisation statements should be maintained against the retailer's verified records.
+
+## Website and project images
+
+### Website transformation overview
+
+The following Tech Conversion comparison presents the earlier and redesigned SSC E-Commerce Sales website side by side.
+
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/ssc-ecommerce-sales-before-after.webp">
+    <img src="https://techconversion.tech/api/media/before-after/ssc-ecommerce-sales-before-after.webp" alt="SSC E-Commerce Sales website redesign before and after comparison" width="100%" />
+  </a>
+</p>
+
+*Click the image to open the full-resolution comparison.*
+
+## Full-length BEFORE and AFTER comparison
+
+<table>
+  <thead>
+    <tr>
+      <th width="50%" align="center">BEFORE — Original Website</th>
+      <th width="50%" align="center">AFTER — Redesigned Website</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/ssc-ecommerce-sales-old-website-home-page.webp">
+          <img src="https://techconversion.tech/api/media/before-after/ssc-ecommerce-sales-old-website-home-page.webp" alt="SSC E-Commerce Sales original website full-page screenshot before redesign" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/99abcc56-38d4-43ec-837d-39d9319abca0.webp">
+          <img src="https://techconversion.tech/api/media/before-after/99abcc56-38d4-43ec-837d-39d9319abca0.webp" alt="SSC E-Commerce Sales redesigned website full-page screenshot after redesign" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/ssc-ecommerce-sales-old-website-home-page.webp"><strong>View full-size BEFORE screenshot</strong></a>
+  &nbsp; | &nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/99abcc56-38d4-43ec-837d-39d9319abca0.webp"><strong>View full-size AFTER screenshot</strong></a>
+</p>
+
+### Image provenance
+
+The before-and-after presentation and full-length website screenshots above are embedded from Tech Conversion's public project-media endpoints. They replace the earlier README's local `images/...` concept gallery and the `IMAGE-SOURCES.md` dependency.
+
+These visuals provide project documentation and a clear design comparison, but they are **not evidence of measured traffic growth, order growth, revenue, purchase conversion, repair leads, rankings, page-speed uplift or customer acquisition**.
+
+Because the images are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced with relative paths.
+
+## Key customer journeys
+
+The project and repository are verifiable, but the exact **public ecommerce production domain and product routes remain unconfirmed**. This table therefore distinguishes project journeys from verified external links.
+
+| Visitor objective | Project route or status |
+|---|---|
+| Browse the SSC ecommerce portfolio project | [Tech Conversion portfolio](https://techconversion.tech/portfolio) |
+| View the existing project repository | [SSC-E-Commerce-Sales-website](https://github.com/TechConversionOfficial/SSC-E-Commerce-Sales-website) |
+| Search for a laptop or desktop | Product-search experience shown in project materials; live URL not verified |
+| Compare printers, accessories and other categories | Category-led shopping experience shown in project materials |
+| Explore offers and featured products | Promotional and featured-product sections shown in the website presentation |
+| Check product details or add items to a cart | Shopping controls visible; transaction workflow not independently tested |
+| Ask about laptop repairs or upgrades | Repair and support journey shown in the project |
+| Request multiple devices for an office or school | Bulk-order and enquiry route shown in the project |
+| Contact the local Haveri team | Sales/support experience includes call, enquiry and store-visit options; use current verified contact details |
+| Explore the associated SSC Haveri identity | [sschaveri.in](https://sschaveri.in/) — associated business domain; exact ecommerce relationship remains unverified |
+
+## Standards and safeguards the website should be reviewed against
+
+These are **appropriate evaluation references**, not claims of an independently completed audit or compliance certification.
+
+- **[Core Web Vitals](https://web.dev/articles/vitals):** assess hero images, product-grid loading, interaction responsiveness and mobile layout stability.
+- **[WCAG 2.2 Level AA](https://www.w3.org/TR/WCAG22/):** review keyboard access, category navigation, meaningful alternative text, contrast, cart and filter controls, and form labels.
+- **[Google Search Essentials](https://developers.google.com/search/docs/essentials):** review useful product descriptions, descriptive category pages, crawlable navigation and internal links.
+- **[Schema.org](https://schema.org/):** assess accurate Product, Offer, BreadcrumbList and Organisation structured data where justified by current catalogues and stock information.
+- **Product and pricing accuracy:** confirm real stock, specifications, warranties, brand-authorisation claims, prices and availability before product publication.
+- **Checkout security:** verify the actual payment provider, transport security, customer-data protection, failure handling and order confirmations instead of treating visible cart controls as proof of production readiness.
+- **Delivery, returns and support:** publish accurate delivery coverage, shipping costs, cancellation/refund policy, service warranties and current branch details.
+- **Advertising and promotion claims:** validate any free-delivery, genuine-product, discount, founding-year or customer-count statements before publication.
+- **Repair enquiries:** consider privacy and safe handling of customers' device information, diagnostic details and contact records.
+
+## Before and after
+
+The supplied Tech Conversion assets include a dedicated before-and-after presentation plus full-length screenshots of the earlier and redesigned SSC E-Commerce Sales homepages. These support a clear **visual before-and-after presentation of the website project**.
+
+The screenshots do not independently establish deployment dates, backend functionality or measurable business improvement. Traffic, orders, conversions, rankings, site speed and revenue require separate analytics and client-approved reporting.
+
+## Results
+
+**Supported:** Tech Conversion includes **SSC E-Commerce Sales** in its portfolio as an electronics and laptop-store ecommerce project. The supplied project media documents an earlier and redesigned website presentation featuring product-led navigation, category discovery, shopping actions and customer-support journeys. A public [SSC E-Commerce Sales GitHub repository](https://github.com/TechConversionOfficial/SSC-E-Commerce-Sales-website) exists under Tech Conversion's account.
+
+**Not independently confirmed:** the exact live ecommerce domain, published product catalogue, inventory sync, active checkout, shipping/payment integrations, order tracking, platform stack and backend operation.
+
+**Not independently measured:** traffic growth, orders, revenue, purchase conversion rates, repair leads, organic search rankings, page-speed uplift or customer acquisition. Figures and promises visible in website artwork are not treated as audited business outcomes.
+
+## About Tech Conversion
+
+[Tech Conversion](https://techconversion.tech/) is a website development and digital marketing agency based in Chennai, India. Its work covers ecommerce, company websites, education websites, SEO, digital marketing and conversion-oriented digital experiences.
+
+- **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
+- **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
+- **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech) · +91 91507 86547
+
+## Repository scope and image credits
+
+This repository is a **public portfolio and website-design record**, not a distribution of production source code. It excludes customer orders, inventory data, payment credentials, repair histories, staff records and confidential project material.
+
+The comparison artwork and full-page screenshots are sourced from Tech Conversion's public project media. SSC / Shree Shivalingeshwar Computers, partner brands and product photography remain the intellectual property of their respective rights holders.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
+and a dedicated customer-support journey.**
 
 ![SSC E-Commerce Sales computer and gaming product storefront design](images/ssc-ecommerce-gaming-storefront.webp)
 
